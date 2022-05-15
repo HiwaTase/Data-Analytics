@@ -14,3 +14,6 @@ Created an interactive dashboard that enables people to identify risky populatio
 <img src ="https://cdn.wallethub.com/wallethub/posts/79790/how-does-car-insurance-work.png" width="350" height="auto" >
 
 <a href="https://public.tableau.com/app/profile/hiwa.tase/viz/INSURANCECLAIM/Dashboardmodified">To See The Project Click Here</a>
+  
+
+i made some changes
