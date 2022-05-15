@@ -15,5 +15,3 @@ Created an interactive dashboard that enables people to identify risky populatio
 
 <a href="https://public.tableau.com/app/profile/hiwa.tase/viz/INSURANCECLAIM/Dashboardmodified">To See The Project Click Here</a>
   
-
-i made some changes
